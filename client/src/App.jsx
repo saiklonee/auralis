@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Dashboard from "./layout/Dashboard";
+import Dashboard from "./layouts/Dashboard";
 import IndexPage from "./pages/IndexPage";
 import CategoryPage from "./pages/CategoryPage";
 import { Toaster } from "react-hot-toast";
